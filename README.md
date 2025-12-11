@@ -28,7 +28,6 @@ This repository is a boilerplate for a production-ready Web3 + AI automotive sup
 2. Environment
    Create a `.env` file with:
    ```
-   MONGODB_URI=mongodb://localhost:27017/automat
    REDIS_URL=redis://localhost:6379
    OPENAI_API_KEY=sk-...
    JWT_SECRET=change_this
